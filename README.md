@@ -3,7 +3,7 @@
 > Vue访App滑动操作（主要涉及touch操作）
 
 ## 效果图，如下：
-
+![滑动效果图](https://github.com/sijinglei/vue-touch-test/blob/master/static/images/side.gif)
 
 ## Build Setup
 
