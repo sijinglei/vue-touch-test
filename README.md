@@ -1,12 +1,9 @@
-# vue-slider
+# vue-touch-test
 
-> Vue·ÂQQ×ó»¬É¾³ı×é¼ş
+> Vueè®¿Appæ»‘åŠ¨æ“ä½œï¼ˆä¸»è¦æ¶‰åŠtouchæ“ä½œï¼‰
 
-## ¾ßÌåÏîÄ¿ÈçÏÂÍ¼
+## æ•ˆæœå›¾ï¼Œå¦‚ä¸‹ï¼š
 
-![slider.gif](https://upload-images.jianshu.io/upload_images/6633377-23f94155957cfd91.gif?imageMogr2/auto-orient/strip)
-
-Èç¹ûÓĞÒÉÎÊ£¬¿ÉÒÔ²Î¿¼ÎÒµÄÕâÆª[ÎÄÕÂ](https://juejin.im/post/5aa3771af265da23771904d4)
 
 ## Build Setup
 
