@@ -54,7 +54,7 @@
         diffX: 0
 			}
 		},
-		methods : {
+		methods: {
 			//跳转
 			skip(){
 				if( this.checkSlide() ){
@@ -128,7 +128,7 @@
 				this.list.splice(index,1)
 			}
 		}
-    }
+  }
 </script>
 
 <style scoped>
